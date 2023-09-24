@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/k8h8sHm/Health.png",
+      "title": "Fitness Tracker Watch",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF26",
+      "button_bg_color": "#0052FF",
+      "description": "Elevate your fitness journey with our cutting-edge Fitness Tracker Watch. This sleek and stylish watch is more than just an accessory; it's your personal health companion. Keep track of your daily steps, monitor your heart rate in real-time, and gain valuable insights into your sleep quality. With its intuitive touchscreen, long-lasting battery life, and waterproof design, it's perfect for every aspect of your active lifestyle. Stay motivated, set fitness goals, and sync your progress with our user-friendly app. Embrace a healthier you with the Fitness Tracker Watch. Take charge of your health today!",
+      "price": 199.99
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/z5CMdKY/Education.png",
+      "title": "Educational STEM Kit",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "button_bg_color": "#FF444A",
+      "description": "Fuel your child's passion for learning with our Educational STEM Kit. Designed to inspire creativity and critical thinking, this kit offers a world of hands-on exploration in science, technology, engineering, and mathematics. From building robots to conducting fascinating experiments, your child will embark on a journey of discovery. Our kit includes high-quality materials and easy-to-follow instructions, making learning a delightful experience. Watch as your child's confidence soars while they develop problem-solving skills and a love for STEM. Give the gift of knowledge and curiosity with our Educational STEM Kit.",
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/vxtNkDB/Rectangle-4287.png",
+      "title": "Classic Denim Jacket",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_color": "#79C23F",
+      "button_bg_color": "#79C23F",
+      "description": "Elevate your style with our Classic Denim Jacket, the timeless addition your wardrobe deserves. Crafted from premium denim, this jacket seamlessly combines comfort and fashion. Its versatile design allows you to effortlessly transition from casual to chic, making it the perfect choice for any occasion. Whether you're dressing up for a night out or keeping it casual for a weekend adventure, this jacket will be your go-to choice. With attention to detail and quality, it's a must-have staple that exudes confidence and style. Enhance your fashion game with the Classic Denim Jacket.",
+      "price": 79.99
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/m8RJszc/Rectangle-4287-2.png",
+      "title": "Gourmet Chocolate Assortment",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "button_bg_color": "#F87147",
+      "description": "Indulge in the exquisite flavors of our Gourmet Chocolate Assortment, where every bite is a journey of culinary delight. Handcrafted with the finest ingredients, these chocolates are a masterpiece of taste and artistry. From rich dark chocolate to creamy truffles, our assortment offers a symphony of flavors to satisfy your cravings. Whether you're treating yourself or gifting to a loved one, our chocolates are a luxurious experience that leaves a lasting impression. Elevate your moments with a touch of sophistication and savor the magic of our Gourmet Chocolate Assortment.",
+      "price": 29.99
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/k8h8sHm/Health.png",
+      "title": "Yoga Mat and Accessories Set",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF26",
+      "button_bg_color": "#0052FF",
+      "description": "Enhance your yoga practice with our complete Yoga Mat and Accessories Set, designed to bring balance and serenity into your life. Crafted with premium materials, the yoga mat offers optimal cushioning and stability for your poses. The set includes essential accessories like blocks, straps, and a carrying bag, making it perfect for yogis of all levels. Achieve mindfulness, flexibility, and inner peace with our high-quality yoga gear. Whether you're a beginner or a seasoned practitioner, this set will support your journey to wellness. Elevate your yoga experience with the Yoga Mat and Accessories Set.",
+      "price": 39.99
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/z5CMdKY/Education.png",
+      "title": "Interactive Learning Tablet",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "button_bg_color": "#FF444A",
+      "description": "Make learning fun and engaging with our Interactive Learning Tablet for kids. This innovative educational device is designed to ignite your child's curiosity and enhance their cognitive skills. Featuring a wide range of interactive lessons, games, and quizzes, it provides a hands-on learning experience in a playful way. With a durable construction and user-friendly interface, it's perfect for kids of all ages. Watch as your child explores subjects like math, science, geography, and more with enthusiasm. Give them the gift of knowledge and creativity with the Interactive Learning Tablet.",
+      "price": 149.99
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/vxtNkDB/Rectangle-4287.png",
+      "title": "Casual Cotton T-Shirt",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_color": "#79C23F",
+      "button_bg_color": "#79C23F",
+      "description": "Upgrade your casual wardrobe with our comfortable and stylish Casual Cotton T-Shirt. Crafted from premium cotton, it offers a perfect blend of softness and durability. Whether you're heading out for a casual outing or simply relaxing at home, this t-shirt is the epitome of comfort and fashion. Its timeless design and versatile color make it easy to mix and match with your favorite jeans, shorts, or skirts. Elevate your everyday style and enjoy the freedom of effortless dressing with the Casual Cotton T-Shirt.",
+      "price": 69.99
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/m8RJszc/Rectangle-4287-2.png",
+      "title": "Organic Fruit Basket",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "button_bg_color": "#F87147",
+      "description": "Savor the freshness of our Organic Fruit Basket, a delightful assortment of nature's finest produce. Each fruit is handpicked at the peak of ripeness to ensure exceptional taste and quality. Enjoy a medley of flavors, from sweet and juicy apples to succulent oranges and exotic tropical fruits. Whether you're treating yourself or sending it as a thoughtful gift, our organic fruit basket is a healthy and delicious choice. Experience the natural goodness and vibrant flavors of the finest organic fruits. Elevate your well-being with the Organic Fruit Basket.",
+      "price": 89.99
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/k8h8sHm/Health.png",
+      "title": "Vitamin Supplements Pack",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF26",
+      "button_bg_color": "#0052FF",
+      "description": "Boost your health with our carefully curated Vitamin Supplements Pack. We understand the importance of a well-balanced diet and the role of essential vitamins in maintaining optimal health. Our pack includes a selection of vitamins that support your immune system, promote healthy skin, and boost your energy levels. Formulated with quality ingredients, these supplements are easy to incorporate into your daily routine. Prioritize your well-being and vitality with the Vitamin Supplements Pack. It's a small step toward a healthier, more energetic you!",
+      "price": 19.99
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/z5CMdKY/Education.png",
+      "title": "Interactive Language Learning Kit",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "button_bg_color": "#FF444A",
+      "description": "Embark on a language learning journey with our Interactive Language Learning Kit. Whether you're a beginner or looking to refine your language skills, this comprehensive kit has you covered. Immerse yourself in the beauty of language through interactive lessons, cultural insights, and engaging activities. From vocabulary building to conversational practice, our kit offers a holistic language learning experience. Explore the world through language and unlock new opportunities for communication and understanding. Start your linguistic adventure today with the Interactive Language Learning Kit.",
+      "price": 59.99
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/vxtNkDB/Rectangle-4287.png",
+      "title": "Stylish Woolen Scarf",
+      "category": "Clothing",
+      "category_bg": "[#79C23F]",
+      "card_bg": "#79C23F26",
+      "text_color": "#79C23F",
+      "button_bg_color": "#79C23F",
+      "description": "Stay warm and fashionable with our Stylish Woolen Scarf. Crafted with care from premium wool, this scarf is designed to keep you cozy during the colder months. Its classic design and vibrant color options add a touch of elegance to any outfit. Whether you're dressing up for a formal event or simply staying warm on a winter stroll, this scarf is the perfect accessory. Wrap yourself in comfort and style and embrace the chilly weather with confidence. Elevate your winter wardrobe with the Stylish Woolen Scarf.",
+      "price": 29.99
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/m8RJszc/Rectangle-4287-2.png",
+      "title": "Gourmet Coffee Collection",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "button_bg_color": "#F87147",
+      "description": "Awaken your senses with our Gourmet Coffee Collection. Crafted from the finest coffee beans sourced from around the world, this collection offers a rich and aromatic coffee experience. Indulge in a variety of flavors, from bold and robust to smooth and nuanced. Whether you prefer a classic espresso or a flavorful latte, our collection has something for every coffee lover. Start your day with a cup of excellence and savor the unparalleled quality and freshness of our gourmet coffee. Elevate your coffee ritual with the Gourmet Coffee Collection.",
+      "price": 69.99
+    }
+  ]
+  
