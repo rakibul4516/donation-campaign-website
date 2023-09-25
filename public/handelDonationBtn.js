@@ -1,3 +1,4 @@
+import swal from 'sweetalert';
 const handelDonationBtn = (post) => {
     let addDonation = [];
     console.log(post)
@@ -5,15 +6,15 @@ const handelDonationBtn = (post) => {
     if (!getDonationItem) {
         addDonation.push(post);
         localStorage.setItem('donated_item', JSON.stringify(addDonation))
-        alert('succefully added')
+        swal("Done!", "Added successfully", "success");
     } else {
-        const exist = getDonationItem.find((data)=>data.id === post.id);
+        const exist = getDonationItem.find((data) => data.id === post.id);
         if (!exist) {
             addDonation.push(...getDonationItem, post);
             localStorage.setItem('donated_item', JSON.stringify(addDonation))
-            alert('added succesfully')
-        }else{
-            alert('exist')
+            swal("Done!", "Added successfully", "success");
+        } else {
+            swal("Exist!", "Already added", "error");
         }
     }
 }
