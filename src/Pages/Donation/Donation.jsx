@@ -28,10 +28,10 @@ const Donation = () => {
         <div>
             <div className="flex justify-between my-5 items-center w-11/12 md:w-10/12 mx-auto">
                 {
-                    allDonation.length > 0 ? <button className="bg-[#FF444A]  px-3 py-2 rounded-md text-white">Total Donation : $ {totalDonation}</button> : ''
+                    allDonation.length > 0 ? <button className="bg-[#FF444A]  px-3 py-2 rounded-md text-white font-semibold">Total : $ {totalDonation}</button> : ''
                 }
                 {
-                    allDonation.length > 0 ? <button onClick={handelRemoveData} className="bg-[#FF444A]  px-3 py-2 rounded-md text-white">Delete All</button> : ''
+                    allDonation.length > 0 ? <button onClick={handelRemoveData} className="bg-[#FF444A]  px-3 py-2 rounded-md font-semibold text-white">Delete All</button> : ''
                 }
             </div>
             {noData ? <p className="h-[80vh] flex justify-center items-center text-xl font-semibold">{noData}</p> : <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 w-11/12 md:w-10/12 mx-auto my-10">
