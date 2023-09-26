@@ -25,11 +25,10 @@ const Statistics = () => {
     return (
         <div>
             <div>
-                {noData ? <p className="h-[80vh] flex justify-center items-center">{noData}</p> :
-                    <Chart type='pie' className=" w-11/12 md:w-8/12 my-10 mx-auto" height={500} series={[notDonated,donated ]} options={{
+                {noData ? <p className="h-[80vh] flex justify-center items-center text-xl font-semibold">{noData}</p> :
+                    <Chart type='pie' className=" w-11/12 md:w-8/12 my-10 mx-auto" height={400} series={[notDonated,donated ]} options={{
                         labels: ['Your Donation','Total Donation']
                     }}> 
-
                     </Chart>}
             </div>
         </div>

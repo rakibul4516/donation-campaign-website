@@ -11,7 +11,7 @@ const PostDetail = () => {
         setPost(findPost)
     }, [posts, id])
 
-    const { picture, title, description, price } = post || {};
+    const { picture, title, description, price,button_bg_color } = post || {};
 
     return (
         <div>
@@ -19,11 +19,11 @@ const PostDetail = () => {
                 <div className="relative">
                     <img src={picture} alt="" className="w-full h-screen object-cover rounded-lg" />
                     <div className="absolute w-full py-6 bg-black bottom-0 rounded-b-lg bg-opacity-40">
-                        <button onClick={() => handelDonationBtn(post)} className="px-3 py-2 bg-green-300 mx-10 font-semibold rounded-md">Price: {price}</button>
+                        <button onClick={() => handelDonationBtn(post)} className="px-3 py-2 mx-5 lg:mx-10 font-semibold rounded-md text-white" style={{backgroundColor:button_bg_color}} >Price: {price}</button>
                     </div>
                 </div>
                 <div className="mt-5">
-                    <h2>{title}</h2>
+                    <h2 className="text-lg font-bold py-5">{title}</h2>
                     <h3>{description}</h3>
                 </div>
 

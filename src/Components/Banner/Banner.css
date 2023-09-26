@@ -1,9 +1,9 @@
 #banner-bg{
-    background-image: url('https://i.ibb.co/TqBhwfZ/Rectangle-4281-overlay.png');
-    background-repeat: no-repeat;
+    background-image: url('https://i.ibb.co/TbdhVsN/image.png');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     width: 100%;
+    margin-top: -100px;
     z-index: 20;
-    margin-top: -110px;
   }

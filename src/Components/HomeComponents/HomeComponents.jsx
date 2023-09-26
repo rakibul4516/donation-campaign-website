@@ -16,6 +16,7 @@ const HomeComponents = () => {
         if (searchText !==''){
             setPosts(getsearchData)
         }
+        e.target.search.value = ''
     }
     return ( 
         <div>
