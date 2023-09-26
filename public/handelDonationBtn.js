@@ -1,7 +1,6 @@
 import swal from 'sweetalert';
 const handelDonationBtn = (post) => {
     let addDonation = [];
-    console.log(post)
     const getDonationItem = JSON.parse(localStorage.getItem('donated_item'));
     if (!getDonationItem) {
         addDonation.push(post);

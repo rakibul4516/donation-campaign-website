@@ -9,7 +9,7 @@
       "text_color": "#0052FF",
       "button_bg_color": "#0052FF",
       "description": "Help provide essential medical aid to underserved communities around the world. Your donation will make a significant impact by ensuring that people have access to life-saving treatments, vaccinations, and healthcare services. Together, we can improve the health and well-being of countless individuals in need.",
-      "price": 199.99
+      "price": 100
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "text_color": "#FF444A",
       "button_bg_color": "#FF444A",
       "description": "Be a part of our mission to build learning centers in underserved regions. Your support will fund the construction of safe and accessible educational facilities, ensuring that children have a conducive environment for learning. With your help, we can create pathways to knowledge and empowerment.",
-      "price": 49.99
+      "price": 300
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "text_color": "#79C23F",
       "button_bg_color": "#79C23F",
       "description": "Extend a helping hand by donating clothing to those in need. Your contribution ensures that individuals and families facing challenges have access to warm clothing for all seasons. Together, we can provide comfort and dignity to those less fortunate.",
-      "price": 79.99
+      "price": 150
     },
     {
       "id": 4,
@@ -45,11 +45,11 @@
       "text_color": "#F87147",
       "button_bg_color": "#F87147",
       "description": "Be a part of our emergency food relief efforts during times of crisis. Your support enables us to distribute food rapidly to disaster-affected areas and communities in need. Together, we can provide sustenance and hope in the face of adversity.",
-      "price": 29.99
+      "price": 200
     },
     {
       "id": 5,
-      "picture": "https://i.ibb.co/k8h8sHm/Health.png",
+      "picture": "https://i.ibb.co/HGT7MFN/pexels-pranidchakan-boonrom-1350560.jpg",
       "title": "Supporting Healthcare",
       "category": "Health",
       "category_bg": "rgba(0, 82, 255, 0.20)",
@@ -57,23 +57,23 @@
       "text_color": "#0052FF",
       "button_bg_color": "#0052FF",
       "description": "Join us in our mission to support pediatric healthcare initiatives. Your generous donation will assist in funding specialized treatments, research, and equipment for children facing health challenges. Together, we can create a brighter and healthier future for young patients and their families.",
-      "price": 39.99
+      "price": 100
     },
     {
       "id": 6,
-      "picture": "https://i.ibb.co/z5CMdKY/Education.png",
-      "title": "Educational Resources for All",
+      "picture": "https://i.ibb.co/BgtBS59/pexels-yan-krukau-8613089.jpg",
+      "title": "Educational Resources All",
       "category": "Education",
       "category_bg": "rgba(255, 68, 74, 0.20)",
       "card_bg": "rgba(255, 68, 74, 0.15)",
       "text_color": "#FF444A",
       "button_bg_color": "#FF444A",
       "description": "Join us in providing essential educational resources to underserved communities. Your generous contribution will help bridge the educational gap by supplying textbooks, school supplies, and digital learning tools to students in need. Together, we can unlock the potential of every child.",
-      "price": 149.99
+      "price": 200
     },
     {
       "id": 7,
-      "picture": "https://i.ibb.co/vxtNkDB/Rectangle-4287.png",
+      "picture": "https://i.ibb.co/pvYs2g1/pexels-julia-m-cameron-6995109.jpg",
       "title": "Dress for Success",
       "category": "Clothing",
       "category_bg": "rgba(121, 194, 63, 0.20)",
@@ -81,11 +81,11 @@
       "text_color": "#79C23F",
       "button_bg_color": "#79C23F",
       "description": "Support career development and empowerment through clothing donations. Your generous gift of professional attire helps job seekers make a positive impression during interviews and secure employment. With your help, we can change lives one outfit at a time.",
-      "price": 69.99
+      "price": 300
     },
     {
       "id": 8,
-      "picture": "https://i.ibb.co/m8RJszc/Rectangle-4287-2.png",
+      "picture": "https://i.ibb.co/WDq99rX/pexels-julia-m-cameron-6995298.jpg",
       "title": "Food for Families in Need",
       "category": "Food",
       "category_bg": "rgba(248, 113, 71, 0.20)",
@@ -93,11 +93,11 @@
       "text_color": "#F87147",
       "button_bg_color": "#F87147",
       "description": "Join us in the mission to alleviate food insecurity for struggling families. Your generous donation ensures that parents and children have access to essential groceries, fresh produce, and pantry staples. With your support, we can bring relief and stability to households in crisis.",
-      "price": 89.99
+      "price": 150
     },
     {
       "id": 9,
-      "picture": "https://i.ibb.co/k8h8sHm/Health.png",
+      "picture": "https://i.ibb.co/QkCVM9z/pexels-mart-production-7089401.jpg",
       "title": "Relief for Health Crises",
       "category": "Health",
       "category_bg": "rgba(0, 82, 255, 0.20)",
@@ -105,43 +105,43 @@
       "text_color": "#0052FF",
       "button_bg_color": "#0052FF",
       "description": "Be a part of our emergency relief efforts for health crises worldwide. Your contribution will enable us to respond swiftly to outbreaks, natural disasters, and public health emergencies. With your support, we can provide vital medical supplies, deploy medical teams, and save lives in times of crisis.",
-      "price": 19.99
+      "price": 150
     },
     {
       "id": 10,
-      "picture": "https://i.ibb.co/z5CMdKY/Education.png",
-      "title": "Scholarships for Bright Minds",
+      "picture": "https://i.ibb.co/WWKWWLV/pexels-max-fischer-5212329-1.jpg",
+      "title": "Scholarships for Bright",
       "category": "Education",
       "category_bg": "rgba(255, 68, 74, 0.20)",
       "card_bg": "rgba(255, 68, 74, 0.15)",
       "text_color": "#FF444A",
       "button_bg_color": "#FF444A",
       "description": "Support the dreams of aspiring students through scholarships. Your donation will empower deserving individuals to access quality education, pursue their passions, and achieve academic excellence. Together, we can shape a brighter future by investing in education.",
-      "price": 59.99
+      "price": 200
     },
     {
       "id": 11,
-      "picture": "https://i.ibb.co/vxtNkDB/Rectangle-4287.png",
-      "title": "Emergency Clothing Relief",
+      "picture": "https://i.ibb.co/8N1v1fD/pexels-julia-m-cameron-6994965.jpg",
+      "title": "Clothing Relief for all",
       "category": "Clothing",
       "category_bg": "rgba(121, 194, 63, 0.20)",
       "card_bg": "rgba(121, 194, 63, 0.15)",
       "text_color": "#79C23F",
       "button_bg_color": "#79C23F",
       "description": "Be a part of our efforts to provide emergency clothing relief to disaster-affected communities. Your support enables us to deliver clothing essentials to those who have lost everything due to natural disasters or unforeseen crises. Together, we can restore hope and stability.",
-      "price": 29.99
+      "price": 300
     },
     {
       "id": 12,
-      "picture": "https://i.ibb.co/m8RJszc/Rectangle-4287-2.png",
-      "title": "Feeding Hungry Communities",
+      "picture": "https://i.ibb.co/T4hPGyd/pexels-julia-m-cameron-6995221.jpg",
+      "title": "For Hungry Communities",
       "category": "Food",
       "category_bg": "rgba(248, 113, 71, 0.20)",
       "card_bg": "rgba(248, 113, 71, 0.15)",
       "text_color": "#F87147",
       "button_bg_color": "#F87147",
       "description": "Make a difference by supporting food donations to vulnerable communities. Your contribution helps provide nutritious meals to those facing hunger, ensuring that no one goes to bed hungry. Together, we can nourish bodies and uplift spirits.",
-      "price": 69.99
+      "price": 100
     }
   ]
   
